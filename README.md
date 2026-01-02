@@ -22,38 +22,6 @@ This project is a simple YouTube Clone application built with React. Users can w
 * **Millify:** Used to format view counts (e.g., 10K, 1M).
 * **React Icons:** Used for adding icons.
 
-## 💻 Getting Started
-
-Follow these steps to set up the project locally.
-
-### Prerequisites
-
-Make sure you have Node.js installed on your machine.
-
-### Installation
-
-1.  **Clone the repository**
-    ```bash
-    git clone [https://github.com/your-username/youtube-clone.git](https://github.com/your-username/youtube-clone.git)
-    cd youtube-clone
-    ```
-
-2.  **Install dependencies**
-    ```bash
-    npm install
-    ```
-
-3.  **Environment Setup**
-    Create a `.env` file in the root directory and add your YouTube API key (from RapidAPI or Google Cloud Console):
-    ```env
-    VITE_YOUTUBE_API_KEY=your_api_key_here
-    ```
-
-4.  **Run the project**
-    ```bash
-    npm run dev
-    ```
-
 ## 📱 Responsive Design
 
 The YouTube Clone app is fully responsive and works flawlessly across desktops, tablets, and mobile devices.
